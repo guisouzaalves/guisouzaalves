@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Guilherme
 
 **💻 Desenvolvedor | Tecnologias que uso**  
-![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,go,ts,nodejs,react,git,github)
+![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs,react,git,github)
 
 **🌱 Aprendendo agora**: **C#**/**.NET**  
 
