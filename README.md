@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou Guilherme
 
-<!--
-**guisouzaalves/guisouzaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Desenvolvedor | Tecnologias que uso**  
+![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,go,ts,nodejs,react,git,github)
 
-Here are some ideas to get you started:
+**🌱 Aprendendo agora**: **C#**/**.NET**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📫 Contato**:  
+[![Site](https://img.shields.io/badge/-Site-1A1A1A?style=flat&logo=google-chrome)](https://guisouzaalves.net/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/guisouzaalves)  [![Email](https://img.shields.io/badge/-Email-4A148C?style=flat&logo=proton)](mailto:guisouzaalves@pm.me)
+
+---
+
+📊 **Estatísticas do GitHub**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guisouzaalves&show_icons=true&theme=shades-of-purple&hide_border=true)
