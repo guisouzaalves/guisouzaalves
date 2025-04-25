@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Guilherme
+# 👋 Olá, eu sou Guilherme [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/guisouzaalves)
 
 **💻 Desenvolvedor | Tecnologias que uso**  
 ![Tecnologias](https://skillicons.dev/icons?i=go,ts,nodejs,react,git,github)
