@@ -1,9 +1,17 @@
 # 👋 Olá, eu sou Guilherme [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/guisouzaalves)
 
-**💻 Desenvolvedor | Tecnologias que uso**  
-![Tecnologias](https://skillicons.dev/icons?i=go,ts,nodejs,react,git,github)
+**💻 Engenheiro de dados | Tecnologias que uso**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=45 height=45 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=45 height=45 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width=45 height=45 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width=45 height=45 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width=45 height=45 font-color=white />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=45 height=45 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width=45 height=45 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=45 height=45 />
 
-**🌱 Aprendendo agora**: **Golang**  
+
+**🌱 Aprendendo agora**: **ETL**  
 **🔭 Trabalhando atualmente em**: Em construção...  
 
 **📫 Contato**:  
